@@ -1,5 +1,8 @@
 # README for VE482 FA2022 Project 1 - Mum's shell
 
+# Honor Code Pledge
+If there is similar course materials assigned in the future, it is the responsibility of JI students not to copy or modify these codes, or other files because it is against the Honor Code. The owner of this repository doesn't take any commitment for other's faults.
+
 ## Description
 Mum's shell, or `mumsh` is a minimalistic implementation of a command-line interface to a POSIX operating system kernel.  
 
